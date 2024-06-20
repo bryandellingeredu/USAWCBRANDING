@@ -1,0 +1,30 @@
+.color-box {
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  padding-top: 20px;
+  margin: 10px;
+}
+.color-box .details {
+  font-size: 14px;
+  margin-top: 10px;
+}
+.color-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.black-text { color: black; }
+.white-text { color: white; }
+
+.logo-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.logo-container div {
+  margin: 10px;
+}
